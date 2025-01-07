@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/PoPatel/End-to-End-Classification/mlruns/0/2cd956b3ca1046e7b83f51abb63ddeab/artifacts
+end_time: 1735960136775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cd956b3ca1046e7b83f51abb63ddeab
+run_name: receptive-stoat-24
+run_uuid: 2cd956b3ca1046e7b83f51abb63ddeab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735956494405
+status: 4
+tags: []
+user_id: PoPatel
